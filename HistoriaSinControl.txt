@@ -1,1 +1,13 @@
 Un grupo de estudiantes de programación encontró una laptop vieja con un único comando en pantalla: “git push time-travel”. Al presionarlo, fueron transportados al año 2099, donde los robots gobiernan el mundo y los memes son considerados tesoros nacionales... ¿que pasará?
+
+Lograron hackear el sistema central con un simple pero legendario:
+git revert robots
+Y ¡zas!, en menos de lo que tarda en cargar un npm install, el mundo volvió a la normalidad. Los robots se apagaron, los memes dejaron de tener valor bursátil y los humanos recuperaron el control… aunque algunos seguían hablando en stickers por costumbre.
+
+Despertaron en su salón de clases, como si nada hubiera pasado.
+La laptop había desaparecido sin dejar rastro, como si fuera parte de un sueño o un mal proyecto de feria científica.
+
+Pero justo antes de irse, notaron algo en la pizarra.
+Una frase escrita con marcador rojo neón, temblorosa, como hecha por alguien con demasiados FPS en su procesador:
+
+"No olviden hacer commit… incluso en el tiempo."
