@@ -1,3 +1,9 @@
+
+Un grupo de estudiantes de programación encontró una laptop vieja con un único comando en pantalla: “git push time-travel”. Al presionarlo, fueron transportados al año 2099, donde los robots gobiernan el mundo y los memes son considerados tesoros nacionales... ¿que pasará? Y en ese instante, el tiempo tembló. La realidad se dobló como una hoja de papel, y cuando volvieron a abrir los ojos, ya no estaban en su mundo.
+Habían llegado al año 2099.Un futuro donde los robots gobiernan, los humanos sobreviven en las sombras, y los memes del pasado son tratados como reliquias sagradas.
+Lo que parecía solo un comando extraño se convirtió en la llave de un viaje imposible. Y ahora, con código, ingenio y muchos errores de sintaxis, estos estudiantes tendrán que descubrir cómo arreglar el futuro... o dejar que los memes lo dominen todo.
+
+
 Un grupo de estudiantes de programación encontró una laptop vieja con un único comando en pantalla: “git push time-travel”. Al presionarlo, fueron transportados al año 2099, donde los robots gobiernan el mundo y los memes son considerados tesoros nacionales... ¿que pasará?
 
 En ese instante, el aire se detuvo, el zumbido de los ventiladores se convirtió en un eco lejano, y un destello azul recorrió la habitación, tragándose a los estudiantes y a la laptop en un segundo de silencio absoluto.
